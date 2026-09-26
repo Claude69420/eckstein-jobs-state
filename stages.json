@@ -1,6 +1,11 @@
 {
   "version": 1,
   "stages": {
+    "642": {
+      "stage": "poured",
+      "at": "2026-09-26T19:00:23Z",
+      "by": "PC"
+    },
     "656": {
       "stage": "inspected",
       "at": "2026-09-26T18:30:22Z",
