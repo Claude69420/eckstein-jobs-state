@@ -1,5 +1,6 @@
 {
-  "version": 2,
+  "version": 3,
+  "retired": "R-2 was promoted: stages.json is the only stage file. Kept as a backup; nothing reads it.",
   "stages": {
     "411": {
       "assess": "onsite",
