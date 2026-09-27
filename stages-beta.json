@@ -3,7 +3,11 @@
   "stages": {
     "411": {
       "assess": "onsite",
-      "at": "2026-09-27T01:00:59Z",
+      "lane": {
+        "s": "req"
+      },
+      "cut": "req",
+      "at": "2026-09-27T01:01:05Z",
       "by": "iPhone app"
     },
     "412": {
