@@ -176,8 +176,10 @@
     },
     "688": {
       "stage": "prep",
-      "at": "2026-09-27T20:26:03Z",
-      "by": "iPhone app"
+      "asphalt": "req",
+      "pavers": "req",
+      "at": "2026-09-28T15:29:06Z",
+      "by": "PC"
     },
     "690": {
       "assess": "virtual",
