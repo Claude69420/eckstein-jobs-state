@@ -185,10 +185,10 @@
       "by": "PC"
     },
     "690": {
-      "stage": "base",
+      "stage": "setup",
       "assess": "virtual",
       "pavers": "req",
-      "at": "2026-09-28T15:33:41Z",
+      "at": "2026-09-28T15:33:54Z",
       "by": "PC"
     },
     "692": {
