@@ -131,8 +131,9 @@
     "679": {
       "stage": "inspected",
       "asphalt": "req",
-      "at": "2026-09-27T22:37:06Z",
-      "by": "iPhone app"
+      "pavers": "req",
+      "at": "2026-09-28T15:30:31Z",
+      "by": "PC"
     },
     "680": {
       "stage": "prep",
