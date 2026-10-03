@@ -49,9 +49,10 @@
       "by": "iPhone app"
     },
     "596": {
-      "stage": "prep",
-      "at": "2026-09-26T19:06:58Z",
-      "by": "PC"
+      "stage": "inspected",
+      "asphalt": "req",
+      "at": "2026-10-03T22:12:13Z",
+      "by": "iPhone app"
     },
     "627": {
       "stage": "setup",
