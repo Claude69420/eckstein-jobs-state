@@ -220,7 +220,7 @@
       "by": "PC"
     },
     "694": {
-      "stage": "setup",
+      "stage": "poured",
       "lane": {
         "s": "booked",
         "from": "2026-09-28",
@@ -228,7 +228,7 @@
       },
       "cut": "done",
       "asphalt": "req",
-      "at": "2026-10-03T22:11:37Z",
+      "at": "2026-10-03T22:11:43Z",
       "by": "iPhone app"
     },
     "699": {
