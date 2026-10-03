@@ -43,8 +43,10 @@
     },
     "571": {
       "stage": "poured",
-      "at": "2026-09-26T19:06:39Z",
-      "by": "PC"
+      "cleanup": "done",
+      "removed": true,
+      "at": "2026-10-03T22:05:58Z",
+      "by": "iPhone app"
     },
     "596": {
       "stage": "prep",
