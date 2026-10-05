@@ -227,6 +227,74 @@
           "jobNumber": 608
         }
       ]
+    },
+    "rmuv7g6ibjqdvhk1vza4b": {
+      "id": "rmuv7g6ibjqdvhk1vza4b",
+      "name": "10/5/2026 Setup",
+      "owner": "Mon Oct 5 Setup",
+      "by": "PC",
+      "at": "2026-10-05T12:07:23Z",
+      "rt": false,
+      "start": {
+        "mode": "shop"
+      },
+      "seq": [
+        {
+          "name": "Bailley Ave and Glen Meadow St",
+          "lat": 49.827334,
+          "lon": -97.117732,
+          "jobNumber": 699
+        },
+        {
+          "name": "Pembina Hwy & Adamar Rd",
+          "lat": 49.823712,
+          "lon": -97.152666,
+          "jobNumber": 698
+        },
+        {
+          "name": "1551 Pembina Hwy",
+          "lat": 49.8328637,
+          "lon": -97.1517066,
+          "jobNumber": 702
+        },
+        {
+          "name": "Pembina Hwy and Oakenwald Ave",
+          "lat": 49.8414532,
+          "lon": -97.1532831,
+          "jobNumber": 703
+        },
+        {
+          "name": "959 Southwood Ave",
+          "lat": 49.844213,
+          "lon": -97.151561,
+          "jobNumber": 704
+        },
+        {
+          "name": "Colony St & Portage Av",
+          "lat": 49.8918985,
+          "lon": -97.151307,
+          "jobNumber": 690
+        },
+        {
+          "name": "Watt St and Munroe Ave",
+          "lat": 49.917722,
+          "lon": -97.097857,
+          "jobNumber": 701
+        },
+        {
+          "name": "Watt St and Bronx Ave",
+          "lat": 49.9229895,
+          "lon": -97.0915315,
+          "jobNumber": 706
+        },
+        {
+          "name": "1877 Henderson Hwy",
+          "lat": 49.9547988,
+          "lon": -97.0741852,
+          "jobNumber": 627
+        }
+      ],
+      "skipped": []
     }
   }
 }
