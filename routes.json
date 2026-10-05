@@ -158,6 +158,75 @@
           "jobNumber": 651
         }
       ]
+    },
+    "rmuumwi6dg103vwuyk202": {
+      "id": "rmuumwi6dg103vwuyk202",
+      "name": "Mon Oct 5 - Paving stones",
+      "owner": "Oct 2 afternoon pour",
+      "by": "iPhone app",
+      "at": "2026-10-05T02:32:13Z",
+      "rt": false,
+      "start": {
+        "mode": "shop"
+      },
+      "seq": [
+        {
+          "name": "130 Midland St",
+          "lat": 49.910029,
+          "lon": -97.190319,
+          "jobNumber": 664
+        },
+        {
+          "name": "Portage Ave & Lipton St",
+          "lat": 49.8849214,
+          "lon": -97.1726174,
+          "jobNumber": 688
+        },
+        {
+          "name": "SW Corner Ellice Ave and Kennedy St",
+          "lat": 49.8936833,
+          "lon": -97.1501786,
+          "jobNumber": 684
+        },
+        {
+          "name": "174 Hargrave Street",
+          "lat": 49.889565,
+          "lon": -97.143084,
+          "jobNumber": 680
+        },
+        {
+          "name": "123 Princess St",
+          "lat": 49.898966,
+          "lon": -97.14141,
+          "jobNumber": 655
+        },
+        {
+          "name": "185 Provencher Boulevard",
+          "lat": 49.892487,
+          "lon": -97.122171,
+          "jobNumber": 679
+        },
+        {
+          "name": "277 Provencher Blvd",
+          "lat": 49.893657,
+          "lon": -97.117632,
+          "jobNumber": 648
+        }
+      ],
+      "skipped": [
+        {
+          "name": "Lemay Ave and Lord Ave",
+          "lat": 49.769373,
+          "lon": -97.141626,
+          "jobNumber": 705
+        },
+        {
+          "name": "815 Lemay Avenue",
+          "lat": 49.768919,
+          "lon": -97.143536,
+          "jobNumber": 608
+        }
+      ]
     }
   }
 }
