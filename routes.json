@@ -295,6 +295,138 @@
         }
       ],
       "skipped": []
+    },
+    "rmuv7ga591a0qoxq8nrbcv": {
+      "id": "rmuv7ga591a0qoxq8nrbcv",
+      "name": "Oct 1 asphalt",
+      "owner": "Mon Oct 5 Setup",
+      "by": "PC",
+      "at": "2026-10-01T00:28:51Z",
+      "rt": false,
+      "start": {
+        "mode": "shop"
+      },
+      "seq": [
+        {
+          "name": "Beaumont Street",
+          "lat": 49.84388,
+          "lon": -97.160585,
+          "jobNumber": 685
+        },
+        {
+          "name": "Pembina Hwy & Waller Ave",
+          "lat": 49.8397616,
+          "lon": -97.152046,
+          "jobNumber": 687
+        },
+        {
+          "name": "Pembina Hwy & Clarence Ave",
+          "lat": 49.8365568,
+          "lon": -97.1506482,
+          "jobNumber": 686
+        },
+        {
+          "name": "lemay & lord",
+          "lat": 49.769332012986,
+          "lon": -97.141536025862,
+          "match": "Av Lemay & Av Lord, Winnipeg, Manitoba, R3V"
+        }
+      ],
+      "skipped": [
+        {
+          "name": "brookside & jefferson",
+          "lat": 49.960698992927,
+          "lon": -97.229609041116,
+          "match": "Brookside Blvd & Jefferson Ave, Winnipeg, Manitoba, R4B"
+        },
+        {
+          "name": "350 dupuy",
+          "lat": 49.883379079347,
+          "lon": -97.092245908963,
+          "match": "350 Dupuy Ave, Winnipeg, Manitoba, R2J 0T4"
+        },
+        {
+          "name": "2049 Dugald Rd",
+          "lat": 49.886745,
+          "lon": -97.028731,
+          "jobNumber": 528
+        }
+      ]
+    },
+    "rmuv7ga591ssuak8xvud3r": {
+      "id": "rmuv7ga591ssuak8xvud3r",
+      "name": "Monday Sept 28 Prep Route",
+      "owner": "Mon Oct 5 Setup",
+      "by": "PC",
+      "at": "2026-09-27T22:18:55Z",
+      "rt": false,
+      "start": {
+        "mode": "shop"
+      },
+      "seq": [
+        {
+          "name": "Portage Ave",
+          "lat": 49.8799513,
+          "lon": -97.2821122,
+          "jobNumber": 688
+        },
+        {
+          "name": "905 Portage Ave",
+          "lat": 49.885679,
+          "lon": -97.170449,
+          "jobNumber": 665
+        },
+        {
+          "name": "174 Hargrave Street",
+          "lat": 49.889565,
+          "lon": -97.143084,
+          "jobNumber": 680
+        },
+        {
+          "name": "Middle Gate and Cornish Ave",
+          "lat": 49.878979,
+          "lon": -97.158302,
+          "jobNumber": 694
+        },
+        {
+          "name": "Brandon Ave and Osborne St",
+          "lat": 49.867847,
+          "lon": -97.136606,
+          "jobNumber": 700
+        },
+        {
+          "name": "350 River Avenue",
+          "lat": 49.8804605,
+          "lon": -97.1418485,
+          "jobNumber": 682
+        },
+        {
+          "name": "505 Munroe Ave",
+          "lat": 49.9178123,
+          "lon": -97.0971877,
+          "jobNumber": 672
+        },
+        {
+          "name": "821 Nottingham Ave",
+          "lat": 49.908258,
+          "lon": -97.083602,
+          "jobNumber": 596
+        },
+        {
+          "name": "508 Regent Avenue West",
+          "lat": 49.8951262,
+          "lon": -97.0192951,
+          "jobNumber": 681
+        }
+      ],
+      "skipped": [
+        {
+          "name": "Donnelly St and Waller Ave",
+          "lat": 49.836939,
+          "lon": -97.160302,
+          "jobNumber": 692
+        }
+      ]
     }
   }
 }
