@@ -110,15 +110,35 @@
     },
     "rmuul8dkd1d7nfn6bp923b": {
       "id": "rmuul8dkd1d7nfn6bp923b",
-      "name": "2026-10-04 - AM concrete pour",
+      "name": "2026-10-04 - PM concrete pour",
       "owner": "Oct 2 afternoon pour",
       "by": "iPhone app",
-      "at": "2026-10-05T01:45:28Z",
+      "at": "2026-10-05T01:53:38Z",
       "rt": false,
       "start": {
-        "mode": "shop"
+        "mode": "stop"
       },
       "seq": [
+        {
+          "name": "1924 St Mary's Rd",
+          "lat": 49.814203,
+          "lon": -97.112556,
+          "jobNumber": 444
+        },
+        {
+          "name": "Des Hivernants",
+          "lat": 49.827569,
+          "lon": -97.043755,
+          "jobNumber": 448
+        },
+        {
+          "name": "2050 Warde Ave",
+          "lat": 49.8272472,
+          "lon": -97.04022,
+          "jobNumber": 653
+        }
+      ],
+      "skipped": [
         {
           "name": "225 Allard Ave",
           "lat": 49.879,
@@ -130,9 +150,14 @@
           "lat": 49.8894,
           "lon": -97.3052,
           "jobNumber": 656
+        },
+        {
+          "name": "133 Niakwa Rd",
+          "lat": 49.8560713,
+          "lon": -97.0983628,
+          "jobNumber": 651
         }
-      ],
-      "skipped": []
+      ]
     }
   }
 }
