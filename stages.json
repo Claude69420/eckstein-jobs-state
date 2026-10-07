@@ -266,11 +266,12 @@
       "by": "iPhone app"
     },
     "701": {
+      "stage": "base",
       "lane": {
         "s": "booked"
       },
       "cut": "done",
-      "at": "2026-10-07T12:54:35Z",
+      "at": "2026-10-07T12:54:40Z",
       "by": "iPhone app"
     },
     "702": {
