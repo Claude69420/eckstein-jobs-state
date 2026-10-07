@@ -76,9 +76,9 @@
     "648": {
       "stage": "poured",
       "asphalt": "done",
-      "pavers": "req",
-      "at": "2026-09-28T13:12:01Z",
-      "by": "PC"
+      "pavers": "done",
+      "at": "2026-10-07T21:51:44Z",
+      "by": "iPhone app"
     },
     "651": {
       "stage": "poured",
@@ -154,8 +154,8 @@
     "679": {
       "stage": "poured",
       "asphalt": "done",
-      "pavers": "req",
-      "at": "2026-10-03T22:06:54Z",
+      "pavers": "done",
+      "at": "2026-10-07T21:51:42Z",
       "by": "iPhone app"
     },
     "680": {
