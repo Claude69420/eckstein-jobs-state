@@ -95,8 +95,9 @@
     "655": {
       "stage": "poured",
       "pavers": "req",
-      "at": "2026-10-05T01:35:20Z",
-      "by": "PC"
+      "cleanup": "done",
+      "at": "2026-10-07T21:51:02Z",
+      "by": "iPhone app"
     },
     "656": {
       "stage": "poured",
