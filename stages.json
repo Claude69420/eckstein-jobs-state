@@ -251,12 +251,12 @@
       "by": "PC"
     },
     "699": {
-      "stage": "setup",
+      "stage": "base",
       "lane": {
         "s": "booked"
       },
       "cut": "done",
-      "at": "2026-10-07T12:50:16Z",
+      "at": "2026-10-07T12:50:20Z",
       "by": "iPhone app"
     },
     "700": {
