@@ -88,9 +88,10 @@
       "by": "iPhone app"
     },
     "653": {
-      "stage": "inspected",
-      "at": "2026-09-26T19:04:19Z",
-      "by": "PC"
+      "stage": "poured",
+      "cleanup": "done",
+      "at": "2026-10-07T12:56:40Z",
+      "by": "iPhone app"
     },
     "655": {
       "stage": "poured",
