@@ -269,9 +269,9 @@
       "lane": {
         "s": "booked"
       },
-      "cut": "req",
-      "at": "2026-10-05T12:04:49Z",
-      "by": "PC"
+      "cut": "done",
+      "at": "2026-10-07T12:54:35Z",
+      "by": "iPhone app"
     },
     "702": {
       "stage": "base",
