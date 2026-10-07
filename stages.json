@@ -299,8 +299,9 @@
     },
     "705": {
       "stage": "poured",
-      "at": "2026-10-05T02:25:16Z",
-      "by": "PC"
+      "cleanup": "done",
+      "at": "2026-10-07T12:59:00Z",
+      "by": "iPhone app"
     },
     "706": {
       "stage": "base",
