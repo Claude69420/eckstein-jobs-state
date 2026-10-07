@@ -62,10 +62,10 @@
       "by": "PC"
     },
     "627": {
-      "stage": "setup",
+      "stage": "base",
       "asphalt": "req",
-      "at": "2026-09-28T15:35:07Z",
-      "by": "PC"
+      "at": "2026-10-07T12:55:57Z",
+      "by": "iPhone app"
     },
     "642": {
       "stage": "poured",
