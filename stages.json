@@ -124,10 +124,10 @@
     },
     "664": {
       "stage": "poured",
-      "pavers": "req",
+      "pavers": "done",
       "cleanup": "done",
-      "at": "2026-09-30T20:35:13Z",
-      "by": "Claude (office)"
+      "at": "2026-10-07T21:52:27Z",
+      "by": "iPhone app"
     },
     "665": {
       "stage": "poured",
