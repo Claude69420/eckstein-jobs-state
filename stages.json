@@ -175,7 +175,9 @@
     "682": {
       "stage": "poured",
       "asphalt": "done",
-      "at": "2026-10-03T22:03:45Z",
+      "pavers": "done",
+      "cleanup": "done",
+      "at": "2026-10-07T21:51:26Z",
       "by": "iPhone app"
     },
     "683": {
