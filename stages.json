@@ -295,9 +295,10 @@
       "by": "PC"
     },
     "706": {
-      "cut": "req",
-      "at": "2026-10-05T12:04:33Z",
-      "by": "PC"
+      "stage": "base",
+      "cut": "done",
+      "at": "2026-10-07T12:54:25Z",
+      "by": "iPhone app"
     },
     "709": {
       "stage": "base",
