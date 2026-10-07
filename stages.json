@@ -284,9 +284,10 @@
       "by": "iPhone app"
     },
     "704": {
-      "cut": "req",
-      "at": "2026-10-05T12:11:05Z",
-      "by": "PC"
+      "stage": "base",
+      "cut": "done",
+      "at": "2026-10-07T12:51:46Z",
+      "by": "iPhone app"
     },
     "705": {
       "stage": "poured",
