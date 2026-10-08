@@ -78,7 +78,8 @@
       "asphalt": "done",
       "pavers": "done",
       "cleanup": "done",
-      "at": "2026-10-07T21:51:45Z",
+      "removed": true,
+      "at": "2026-10-08T02:15:48Z",
       "by": "iPhone app"
     },
     "651": {
@@ -126,7 +127,8 @@
       "stage": "poured",
       "pavers": "done",
       "cleanup": "done",
-      "at": "2026-10-07T21:52:27Z",
+      "removed": true,
+      "at": "2026-10-08T02:15:46Z",
       "by": "iPhone app"
     },
     "665": {
@@ -185,7 +187,8 @@
     "683": {
       "stage": "poured",
       "cleanup": "done",
-      "at": "2026-10-07T21:50:52Z",
+      "removed": true,
+      "at": "2026-10-08T02:15:45Z",
       "by": "iPhone app"
     },
     "684": {
