@@ -194,8 +194,9 @@
       "asphalt": "done",
       "pavers": "na",
       "cleanup": "done",
-      "at": "2026-10-07T21:51:31Z",
-      "by": "iPhone app"
+      "removed": true,
+      "at": "2026-10-09T14:05:59Z",
+      "by": "PC"
     },
     "683": {
       "stage": "poured",
