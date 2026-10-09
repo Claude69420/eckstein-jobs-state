@@ -30,7 +30,8 @@
     "448": {
       "stage": "poured",
       "cleanup": "done",
-      "at": "2026-10-09T00:08:08Z",
+      "removed": true,
+      "at": "2026-10-09T00:11:34Z",
       "by": "iPhone app"
     },
     "517": {
@@ -125,7 +126,8 @@
     "661": {
       "stage": "poured",
       "cleanup": "done",
-      "at": "2026-10-09T00:08:21Z",
+      "removed": true,
+      "at": "2026-10-09T00:11:34Z",
       "by": "iPhone app"
     },
     "664": {
