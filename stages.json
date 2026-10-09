@@ -158,8 +158,9 @@
     },
     "676": {
       "stage": "poured",
-      "asphalt": "req",
-      "at": "2026-10-07T12:56:29Z",
+      "asphalt": "done",
+      "cleanup": "done",
+      "at": "2026-10-09T00:50:34Z",
       "by": "iPhone app"
     },
     "679": {
