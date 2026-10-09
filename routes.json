@@ -471,6 +471,70 @@
         }
       ],
       "skipped": []
+    },
+    "rmv0c0hfnd293ds17axrnv": {
+      "id": "rmv0c0hfnd293ds17axrnv",
+      "name": "Asphalt - Oct 9",
+      "owner": "Oct 2 afternoon pour",
+      "by": "iPhone app",
+      "at": "2026-10-09T02:14:00Z",
+      "rt": false,
+      "start": {
+        "mode": "shop"
+      },
+      "seq": [
+        {
+          "name": "Middle Gate and Cornish Ave",
+          "lat": 49.878979,
+          "lon": -97.158302,
+          "jobNumber": 694
+        },
+        {
+          "name": "SW Corner Ellice Ave and Kennedy St",
+          "lat": 49.8936833,
+          "lon": -97.1501786,
+          "jobNumber": 684
+        },
+        {
+          "name": "2049 Dugald Rd",
+          "lat": 49.886745,
+          "lon": -97.028731,
+          "jobNumber": 528
+        },
+        {
+          "name": "821 Nottingham Ave",
+          "lat": 49.908258,
+          "lon": -97.083602,
+          "jobNumber": 596
+        },
+        {
+          "name": "165 Saskatchewan Ave E",
+          "lat": 49.9725533,
+          "lon": -98.2878493,
+          "jobNumber": 675,
+          "oot": true
+        }
+      ],
+      "skipped": [
+        {
+          "name": "Brookside & Jefferson",
+          "lat": 49.960698992927,
+          "lon": -97.229609041116,
+          "match": "Brookside Blvd & Jefferson Ave, Winnipeg, Manitoba, R4B"
+        },
+        {
+          "name": "maple leaf construction on jefferson",
+          "lat": 49.937916,
+          "lon": -97.126509,
+          "match": "Jefferson, Winnipeg, Manitoba"
+        },
+        {
+          "name": "maple leaf construction",
+          "lat": 49.976735,
+          "lon": -97.081149,
+          "match": "Maple Leaf Construction Ltd"
+        }
+      ]
     }
   }
 }
