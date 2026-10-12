@@ -287,13 +287,13 @@
       "by": "iPhone app"
     },
     "699": {
-      "stage": "base",
+      "stage": "inspected",
       "lane": {
         "s": "booked"
       },
       "cut": "done",
-      "at": "2026-10-07T12:50:20Z",
-      "by": "iPhone app"
+      "at": "2026-10-12T18:34:47Z",
+      "by": "PC"
     },
     "700": {
       "stage": "poured",
