@@ -2,12 +2,11 @@
   "version": 2,
   "stages": {
     "411": {
-      "stage": "setup",
       "assess": "onsite",
       "cut": "done",
-      "asphalt": "req",
+      "asphalt": "na",
       "pavers": "na",
-      "at": "2026-10-12T18:39:36Z",
+      "at": "2026-10-12T18:39:43Z",
       "by": "PC"
     },
     "412": {
