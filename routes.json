@@ -641,6 +641,75 @@
         }
       ],
       "skipped": []
+    },
+    "rmv5o9hwi1mu4fz6zo39gq": {
+      "id": "rmv5o9hwi1mu4fz6zo39gq",
+      "name": "October 13 2026 - Prep Route",
+      "owner": "Mon Oct 5 Setup",
+      "by": "PC",
+      "at": "2026-10-12T19:55:47Z",
+      "rt": false,
+      "start": {
+        "mode": "shop"
+      },
+      "seq": [
+        {
+          "name": "Jessie Ave and Warsaw Ave",
+          "lat": 49.867227,
+          "lon": -97.158017,
+          "jobNumber": 709
+        },
+        {
+          "name": "277 Balmoral",
+          "lat": 49.888754519582,
+          "lon": -97.152694518283,
+          "match": "277 Balmoral St, Winnipeg, Manitoba, R3C 1X7"
+        },
+        {
+          "name": "Colony St & Portage Av",
+          "lat": 49.8918985,
+          "lon": -97.151307,
+          "jobNumber": 690
+        },
+        {
+          "name": "47 Kingston Row",
+          "lat": 49.858403187179,
+          "lon": -97.116797509192,
+          "match": "47 Kingston Row, Winnipeg, Manitoba, R2M 0S7"
+        },
+        {
+          "name": "Watt St and Munroe Ave",
+          "lat": 49.917722,
+          "lon": -97.097857,
+          "jobNumber": 701
+        },
+        {
+          "name": "Watt St and Bronx Ave",
+          "lat": 49.9229895,
+          "lon": -97.0915315,
+          "jobNumber": 706
+        }
+      ],
+      "skipped": [
+        {
+          "name": "Pembina Hwy & Adamar Rd",
+          "lat": 49.823712,
+          "lon": -97.152666,
+          "jobNumber": 698
+        },
+        {
+          "name": "1551 Pembina Hwy",
+          "lat": 49.8328637,
+          "lon": -97.1517066,
+          "jobNumber": 702
+        },
+        {
+          "name": "959 Southwood Ave",
+          "lat": 49.844213,
+          "lon": -97.151561,
+          "jobNumber": 704
+        }
+      ]
     }
   }
 }
