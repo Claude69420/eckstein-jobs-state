@@ -309,9 +309,10 @@
       "by": "iPhone app"
     },
     "702": {
-      "stage": "prep",
-      "at": "2026-10-12T19:42:45Z",
-      "by": "PC"
+      "stage": "inspected",
+      "asphalt": "req",
+      "at": "2026-10-13T19:47:33Z",
+      "by": "iPhone app"
     },
     "703": {
       "stage": "inspected",
