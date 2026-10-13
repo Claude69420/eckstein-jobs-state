@@ -275,14 +275,14 @@
       "by": "iPhone app"
     },
     "698": {
-      "stage": "prep",
+      "stage": "inspected",
       "lane": {
         "s": "booked"
       },
       "cut": "done",
       "asphalt": "req",
-      "at": "2026-10-12T19:43:02Z",
-      "by": "PC"
+      "at": "2026-10-13T19:47:59Z",
+      "by": "iPhone app"
     },
     "699": {
       "stage": "inspected",
