@@ -360,9 +360,9 @@
     },
     "712": {
       "stage": "setup",
-      "cut": "req",
-      "at": "2026-10-12T18:32:36Z",
-      "by": "PC"
+      "cut": "done",
+      "at": "2026-10-14T00:09:24Z",
+      "by": "iPhone app"
     },
     "713": {
       "stage": "setup",
