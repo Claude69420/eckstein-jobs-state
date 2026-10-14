@@ -393,12 +393,12 @@
     "720": {
       "stage": "setup",
       "lane": {
-        "s": "req"
+        "s": "booked"
       },
-      "cut": "req",
+      "cut": "done",
       "asphalt": "req",
-      "at": "2026-10-12T18:24:19Z",
-      "by": "PC"
+      "at": "2026-10-14T00:09:16Z",
+      "by": "iPhone app"
     },
     "721": {
       "stage": "setup",
