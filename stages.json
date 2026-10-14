@@ -92,8 +92,9 @@
     "653": {
       "stage": "poured",
       "cleanup": "done",
-      "at": "2026-10-09T00:08:12Z",
-      "by": "iPhone app"
+      "removed": true,
+      "at": "2026-10-14T13:31:58Z",
+      "by": "PC"
     },
     "655": {
       "stage": "poured",
