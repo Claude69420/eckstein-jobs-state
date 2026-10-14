@@ -716,12 +716,18 @@
       "name": "October 14 2026 - Prep",
       "owner": "Oct 2 afternoon pour",
       "by": "iPhone app",
-      "at": "2026-10-14T00:15:12Z",
+      "at": "2026-10-14T00:28:03Z",
       "rt": false,
       "start": {
         "mode": "shop"
       },
       "seq": [
+        {
+          "name": "1551 Pembina Hwy",
+          "lat": 49.8328637,
+          "lon": -97.1517066,
+          "jobNumber": 702
+        },
         {
           "name": "277 Balmoral",
           "lat": 49.888754519582,
