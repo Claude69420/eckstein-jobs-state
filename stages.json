@@ -373,10 +373,10 @@
       "by": "PC"
     },
     "714": {
-      "stage": "setup",
-      "cut": "req",
-      "at": "2026-10-12T18:26:59Z",
-      "by": "PC"
+      "stage": "base",
+      "cut": "done",
+      "at": "2026-10-15T20:00:13Z",
+      "by": "iPhone app"
     },
     "716": {
       "stage": "setup",
