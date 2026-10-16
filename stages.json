@@ -238,7 +238,8 @@
       "stage": "poured",
       "asphalt": "done",
       "cleanup": "done",
-      "at": "2026-10-16T21:41:47Z",
+      "removed": true,
+      "at": "2026-10-16T21:41:53Z",
       "by": "PC"
     },
     "688": {
