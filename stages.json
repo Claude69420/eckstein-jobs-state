@@ -237,8 +237,9 @@
     "687": {
       "stage": "poured",
       "asphalt": "done",
-      "at": "2026-10-03T22:03:05Z",
-      "by": "iPhone app"
+      "cleanup": "done",
+      "at": "2026-10-16T21:41:47Z",
+      "by": "PC"
     },
     "688": {
       "stage": "poured",
