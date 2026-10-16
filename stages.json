@@ -281,7 +281,8 @@
       "cut": "done",
       "asphalt": "req",
       "cleanup": "done",
-      "at": "2026-10-16T21:40:42Z",
+      "removed": true,
+      "at": "2026-10-16T21:40:52Z",
       "by": "PC"
     },
     "698": {
