@@ -70,7 +70,9 @@
     "642": {
       "stage": "poured",
       "asphalt": "done",
-      "at": "2026-09-30T23:51:05Z",
+      "cleanup": "done",
+      "removed": true,
+      "at": "2026-10-16T21:43:35Z",
       "by": "PC"
     },
     "648": {
