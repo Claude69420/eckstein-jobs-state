@@ -224,7 +224,8 @@
       "stage": "poured",
       "asphalt": "done",
       "cleanup": "done",
-      "at": "2026-10-16T21:41:21Z",
+      "removed": true,
+      "at": "2026-10-16T21:41:27Z",
       "by": "PC"
     },
     "686": {
