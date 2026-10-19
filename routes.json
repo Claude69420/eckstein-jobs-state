@@ -855,6 +855,75 @@
           "jobNumber": 718
         }
       ]
+    },
+    "rmvf4780lsm7myxprfafu": {
+      "id": "rmvf4780lsm7myxprfafu",
+      "name": "October 19 2026 - Asphalt",
+      "owner": "Oct 2 afternoon pour",
+      "by": "iPhone app",
+      "at": "2026-10-19T10:31:50Z",
+      "rt": false,
+      "start": {
+        "mode": "shop"
+      },
+      "seq": [
+        {
+          "name": "Ness Ave and Sturgeon Rd",
+          "lat": 49.887972,
+          "lon": -97.2782338,
+          "jobNumber": 720
+        },
+        {
+          "name": "Jessie Ave and Warsaw Ave",
+          "lat": 49.867227,
+          "lon": -97.158017,
+          "jobNumber": 709
+        },
+        {
+          "name": "959 Southwood Ave",
+          "lat": 49.844213,
+          "lon": -97.151561,
+          "jobNumber": 704
+        },
+        {
+          "name": "Pembina Hwy and Oakenwald Ave",
+          "lat": 49.8414532,
+          "lon": -97.1532831,
+          "jobNumber": 703
+        },
+        {
+          "name": "1551 Pembina Hwy",
+          "lat": 49.8328637,
+          "lon": -97.1517066,
+          "jobNumber": 702
+        },
+        {
+          "name": "Pembina Hwy & Adamar Rd",
+          "lat": 49.823712,
+          "lon": -97.152666,
+          "jobNumber": 698
+        },
+        {
+          "name": "128 Hamelin St",
+          "lat": 49.8313795,
+          "lon": -97.1693155,
+          "jobNumber": 716
+        }
+      ],
+      "skipped": [
+        {
+          "name": "SW Corner Ellice Ave and Kennedy St",
+          "lat": 49.8936833,
+          "lon": -97.1501786,
+          "jobNumber": 684
+        },
+        {
+          "name": "2049 Dugald Rd",
+          "lat": 49.886745,
+          "lon": -97.028731,
+          "jobNumber": 528
+        }
+      ]
     }
   }
 }
