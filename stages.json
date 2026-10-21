@@ -414,9 +414,10 @@
         "s": "booked"
       },
       "cut": "done",
-      "asphalt": "req",
-      "at": "2026-10-16T21:23:11Z",
-      "by": "PC"
+      "asphalt": "done",
+      "cleanup": "done",
+      "at": "2026-10-21T00:31:41Z",
+      "by": "iPhone app"
     },
     "721": {
       "stage": "excavation",
