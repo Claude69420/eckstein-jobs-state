@@ -443,10 +443,10 @@
       "by": "PC"
     },
     "728": {
-      "stage": "setup",
-      "cut": "req",
-      "at": "2026-10-16T21:45:01Z",
-      "by": "PC"
+      "stage": "excavation",
+      "cut": "done",
+      "at": "2026-10-21T00:46:56Z",
+      "by": "iPhone app"
     }
   },
   "overrides": {
