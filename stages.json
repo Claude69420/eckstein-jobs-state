@@ -346,9 +346,10 @@
     "704": {
       "stage": "poured",
       "cut": "done",
-      "asphalt": "req",
-      "at": "2026-10-16T21:25:59Z",
-      "by": "PC"
+      "asphalt": "done",
+      "cleanup": "done",
+      "at": "2026-10-21T00:32:07Z",
+      "by": "iPhone app"
     },
     "705": {
       "stage": "poured",
