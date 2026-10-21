@@ -366,9 +366,10 @@
     },
     "709": {
       "stage": "poured",
-      "asphalt": "req",
-      "at": "2026-10-16T21:25:55Z",
-      "by": "PC"
+      "asphalt": "done",
+      "cleanup": "done",
+      "at": "2026-10-21T00:31:57Z",
+      "by": "iPhone app"
     },
     "710": {
       "stage": "poured",
