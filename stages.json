@@ -219,10 +219,10 @@
     },
     "684": {
       "stage": "poured",
-      "asphalt": "req",
-      "pavers": "req",
-      "at": "2026-10-05T01:35:03Z",
-      "by": "PC"
+      "asphalt": "done",
+      "pavers": "done",
+      "at": "2026-10-21T00:38:44Z",
+      "by": "iPhone app"
     },
     "685": {
       "stage": "poured",
