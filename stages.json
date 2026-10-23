@@ -313,8 +313,9 @@
         "s": "booked"
       },
       "cut": "done",
-      "at": "2026-10-16T21:40:08Z",
-      "by": "PC"
+      "cleanup": "done",
+      "at": "2026-10-23T18:28:06Z",
+      "by": "iPhone app"
     },
     "700": {
       "stage": "poured",
