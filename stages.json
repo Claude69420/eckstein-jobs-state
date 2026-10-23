@@ -400,8 +400,9 @@
     },
     "716": {
       "stage": "poured",
-      "at": "2026-10-23T11:22:21Z",
-      "by": "iPhone app"
+      "cleanup": "done",
+      "at": "2026-10-23T15:37:40Z",
+      "by": "PC"
     },
     "718": {
       "stage": "poured",
