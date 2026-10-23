@@ -319,7 +319,8 @@
     "700": {
       "stage": "poured",
       "cleanup": "done",
-      "at": "2026-10-07T12:59:09Z",
+      "removed": true,
+      "at": "2026-10-23T11:21:50Z",
       "by": "iPhone app"
     },
     "701": {
