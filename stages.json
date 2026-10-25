@@ -315,7 +315,8 @@
       },
       "cut": "done",
       "cleanup": "done",
-      "at": "2026-10-23T18:28:06Z",
+      "removed": true,
+      "at": "2026-10-25T22:59:22Z",
       "by": "iPhone app"
     },
     "700": {
@@ -361,7 +362,8 @@
       "asphalt": "done",
       "pavers": "done",
       "cleanup": "done",
-      "at": "2026-10-08T16:10:09Z",
+      "removed": true,
+      "at": "2026-10-25T22:59:20Z",
       "by": "iPhone app"
     },
     "706": {
