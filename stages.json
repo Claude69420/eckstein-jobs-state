@@ -501,7 +501,11 @@
     },
     "736": {
       "stage": "setup",
-      "at": "2026-11-02T11:11:04Z",
+      "assess": "onsite",
+      "lane": {
+        "s": "booked"
+      },
+      "at": "2026-11-02T11:11:10Z",
       "by": "iPhone app"
     },
     "738": {
