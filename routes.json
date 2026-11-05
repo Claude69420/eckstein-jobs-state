@@ -924,6 +924,105 @@
           "jobNumber": 528
         }
       ]
+    },
+    "rmw3ofi4t1f0r4ns19tq4o1": {
+      "id": "rmw3ofi4t1f0r4ns19tq4o1",
+      "name": "2026-11-05 - Asphalt",
+      "owner": "Oct 2 afternoon pour",
+      "by": "iPhone app",
+      "at": "2026-11-05T15:04:37Z",
+      "rt": false,
+      "start": {
+        "mode": "stop"
+      },
+      "seq": [
+        {
+          "name": "watt & bronx",
+          "lat": 49.922596998477,
+          "lon": -97.091850031676,
+          "match": "Watt St & Bronx Ave, Winnipeg, Manitoba, R2K"
+        },
+        {
+          "name": "oak point & eagle",
+          "lat": 49.937193999038,
+          "lon": -97.224153008882,
+          "match": "Oak Point Hwy & Eagle Dr, Winnipeg, Manitoba, R2R"
+        },
+        {
+          "name": "oak point & egesz",
+          "lat": 49.938388001145,
+          "lon": -97.226533972298,
+          "match": "Oak Point Hwy & Egesz St, Winnipeg, Manitoba, R2R"
+        },
+        {
+          "name": "Wellington & Century",
+          "lat": 49.90125600244,
+          "lon": -97.202523004824,
+          "match": "Wellington Ave & Century St, Winnipeg, Manitoba, R3H"
+        },
+        {
+          "name": "John Brebeuf & Beaverbrook BACK LANE",
+          "lat": 49.860517019341,
+          "lon": -97.200310014747,
+          "match": "John Brebeuf Pl & Beaverbrook St, Winnipeg, Manitoba, R3N"
+        },
+        {
+          "name": "John Brebeuf & Beaverbrook",
+          "lat": 49.860517019341,
+          "lon": -97.200310014747,
+          "match": "John Brebeuf Pl & Beaverbrook St, Winnipeg, Manitoba, R3N"
+        },
+        {
+          "name": "John Brebeuf & Centenial",
+          "lat": 49.860557001019,
+          "lon": -97.201557996311,
+          "match": "John Brebeuf Pl & Centennial St, Winnipeg, Manitoba, R3N"
+        },
+        {
+          "name": "1040 Waverley",
+          "lat": 49.839313612245,
+          "lon": -97.178127810908,
+          "match": "1040 Waverley St, Winnipeg, Manitoba, R3T 0P3"
+        },
+        {
+          "name": "Poseidon & Taylor",
+          "lat": 49.851981014876,
+          "lon": -97.172741013194,
+          "match": "Poseidon Bay & Taylor Ave, Winnipeg, Manitoba, R3M"
+        },
+        {
+          "name": "Kingsbury & McPhillips",
+          "lat": 49.950653994433,
+          "lon": -97.149876019522,
+          "match": "Kingsbury Ave & Mcphillips St, Winnipeg, Manitoba, R2V"
+        },
+        {
+          "name": "Andrew's & Atlantic",
+          "lat": 49.929215013948,
+          "lon": -97.136387022741,
+          "match": "Andrews St & Atlantic Ave, Winnipeg, Manitoba, R2W"
+        },
+        {
+          "name": "Andrew's & bannerman",
+          "lat": 49.928488009576,
+          "lon": -97.136928996601,
+          "match": "Andrews St & Bannerman Ave, Winnipeg, Manitoba, R2W"
+        },
+        {
+          "name": "Henderson & leighton",
+          "lat": 49.932948984174,
+          "lon": -97.098998034885,
+          "match": "Henderson Hwy & Leighton Ave, Winnipeg, Manitoba, R2K"
+        }
+      ],
+      "skipped": [
+        {
+          "name": "Andrew's & Machray",
+          "lat": 49.926843019168,
+          "lon": -97.138192987599,
+          "match": "Andrews St & Machray Ave, Winnipeg, Manitoba, R2W"
+        }
+      ]
     }
   }
 }
