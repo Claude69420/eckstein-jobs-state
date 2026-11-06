@@ -341,7 +341,8 @@
       "stage": "poured",
       "asphalt": "done",
       "cleanup": "done",
-      "at": "2026-10-23T18:28:36Z",
+      "removed": true,
+      "at": "2026-11-06T19:01:39Z",
       "by": "iPhone app"
     },
     "703": {
