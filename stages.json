@@ -270,8 +270,9 @@
       "stage": "poured",
       "pavers": "done",
       "cleanup": "done",
-      "at": "2026-10-07T12:55:38Z",
-      "by": "iPhone app"
+      "removed": true,
+      "at": "2026-11-14T16:25:36Z",
+      "by": "PC"
     },
     "692": {
       "stage": "poured",
@@ -387,8 +388,9 @@
       "stage": "poured",
       "asphalt": "done",
       "cleanup": "done",
-      "at": "2026-10-21T00:31:57Z",
-      "by": "iPhone app"
+      "removed": true,
+      "at": "2026-11-14T16:25:34Z",
+      "by": "PC"
     },
     "710": {
       "stage": "poured",
