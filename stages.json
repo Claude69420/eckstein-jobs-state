@@ -437,7 +437,8 @@
     "718": {
       "stage": "poured",
       "cleanup": "done",
-      "at": "2026-10-21T00:39:15Z",
+      "removed": true,
+      "at": "2026-11-15T05:02:39Z",
       "by": "iPhone app"
     },
     "719": {
@@ -453,7 +454,8 @@
       "cut": "done",
       "asphalt": "done",
       "cleanup": "done",
-      "at": "2026-10-21T00:31:41Z",
+      "removed": true,
+      "at": "2026-11-15T05:02:38Z",
       "by": "iPhone app"
     },
     "721": {
